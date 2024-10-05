@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @elliottserna
-- 👀 I’m interested in the quant' end of policy research
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on housing, transportation, economic development, and government reform projects
-- 📫 How to reach me: es2242@cornell.edu
-- 😄 Pronouns: He/Him/Él
-- ⚡ Fun fact: I compose orchestral music on the side
+# `@elliottserna`
 
-<!---
-elliottserna/elliottserna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Howdy, I'm Elliott! Welcome to my GitHub account.
+
+## About Me
+
+🌱 I'm a public policy student at Cornell University and I'm interested in the quant' end of policy research.
+
+## My Work
+
+🌿 In general, I work on housing, transportation, economic development, and government reform projects. 
+
+🪴 Most of the time, I work in STATA and R. More recently, I've been doing some Python work too.
+
+## Contact Me
+
+🌻 Email me at es2242@cornell.edu or visit my site at [elliottserna.github.io](elliottserna.github.io)!
