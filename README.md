@@ -14,4 +14,4 @@ Howdy, I'm Elliott! Welcome to my GitHub account.
 
 ## Contact Me
 
-🌻 Email me at es2242@cornell.edu or visit my site at [elliottserna.github.io](elliottserna.github.io)!
+🌻 Email me at es2242@cornell.edu or visit my site at [elliottserna.github.io](https://elliottserna.github.io)!
