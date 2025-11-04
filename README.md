@@ -8,9 +8,11 @@ Howdy, I'm Elliott! Welcome to my GitHub account.
 
 ## My Work
 
-🌿 In general, I work on housing, transportation, economic development, and government reform projects. 
+🌿 In general, I work on housing, transportation, social safety-net, and government reform projects. 
 
-🪴 Most of the time, I work in STATA and R. More recently, I've been doing some Python work too.
+🌾 My research interests lie in public administration, political economy, and computational social science. I'm also interested in econometrics, machine learning, and statistical decision theory.
+
+🪴 Most of the time, I work in R and Stata. More recently, I've been doing some Python work too.
 
 ## Contact Me
 
