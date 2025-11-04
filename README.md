@@ -10,7 +10,7 @@ Howdy, I'm Elliott! Welcome to my GitHub account.
 
 🌿 In general, I work on housing, transportation, social safety-net, and government reform projects. 
 
-🌾 My research interests lie in public administration, political economy, and computational social science. I'm also interested in econometrics, machine learning, and statistical decision theory.
+🌾 My research interests lie in public administration, political economy, and (mostly statistical) decision theory. I'm also interested in econometrics, machine learning, and computational social science.
 
 🪴 Most of the time, I work in R and Stata. More recently, I've been doing some Python work too.
 
